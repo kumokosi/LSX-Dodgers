@@ -1,3 +1,6 @@
+移植版のドキュメントは現在準備中
+
+
 ﻿・LSX-Dodgers for X1/turbo version 1.23
 ・by Gaku
 
